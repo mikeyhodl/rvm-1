@@ -43,6 +43,7 @@
 * Fix requirement check for Ubuntu [\#5500](https://github.com/rvm/rvm/pull/5500)
 * Update location of homebrew install script on osx [\#5505](https://github.com/rvm/rvm/pull/5505)
 * Fix detection of Homebrew's write permissions when using Workbrew [\#5528](https://github.com/rvm/rvm/pull/5528)
+* Use pkgconf instead of pkg-config on macOS/Homebrew [\#5564](https://github.com/rvm/rvm/pull/5564)
 
 #### New interpreters
 
@@ -126,7 +127,9 @@
 * 9.4.10.0 [\#5538](https://github.com/rvm/rvm/pull/5538)
 * 9.4.11.0 [\#5541](https://github.com/rvm/rvm/pull/5541)
 * 9.4.12.0 [\#5548](https://github.com/rvm/rvm/pull/5548)
+* 9.4.12.1 [\#5567](https://github.com/rvm/rvm/pull/5567)
 * 10.0.0.0 [\#5561](https://github.com/rvm/rvm/pull/5561)
+* 10.0.0.1 [\#5567](https://github.com/rvm/rvm/pull/5567)
 
 ##### Railsexpress patches
 
